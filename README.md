@@ -5,4 +5,4 @@ Instructions: https://docs.google.com/document/d/1JDPzwUL9GP_8xOyWOxxnuGUjWTQBWd
 Download Circular Typefaces
 
 ## Step 2
-Download Sketch file, All process, outcome, UX documention is in there. 
+Download Sketch file: All process, outcome, UX documention is in there. 
